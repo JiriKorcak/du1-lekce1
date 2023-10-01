@@ -59,6 +59,7 @@ public class Main {
         System.out.println("Komentáře odstraníš klávesovou "
                 +"zkratkou <Ctrl>+</> - použij lomítko "
                 +"na numerické klávesnici.");
+
         ukol1();
         ukol2();
         ukol3();
